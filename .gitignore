@@ -1,0 +1,11 @@
+vendor/
+composer.lock
+.claude/
+node_modules/
+.idea/
+.vscode/
+.fleet/
+.phpunit.cache/
+/build
+_ide_helper.php
+.phpunit.result.cache
